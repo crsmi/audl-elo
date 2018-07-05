@@ -1,0 +1,59 @@
+2018 Stuff
+  - build stadium field into 2018_audl_games data and add home_field field to 2018_audl_teams.
+  - use these fields to determine whether a game is home, away or neutral.
+
+  - optimize reading in of 2018_audl_elo for memory usage
+
+ Write predictions code
+  - Have audl_elo.py save a file with current elos.
+  - Take in next set of games and give a prediction. (Can just do with current scraper, maybe with no added code)
+
+
+
+-------------------------------------------------------------------------
+
+- Get 2017 offline
+   - Use wayback? New website went up in 02/18
+
+- Figure out how to put multiple abbrs in audl_franchises.csv
+
+- Update plotting function(s) to use fran_id instead of team_id
+
+- Determine whether to use WEST for 2012 MIDWEST teams in audl_teams.csv
+
+
+- Build in TIE functionality - 5/16/15 CHI and MIN tied a game 12 12. I have it as a WIN/LOSS. Provides discrepancy with Wikipedia
+
+X- Build in "game_location" = neutral ability
+  LIST:
+  - 2012 just championship game
+  - 2013 Eastern Div and Championsip game (CHI had hfa vs MAD in MW Div)
+  - 2014 second to last game, MAD vs SJ in TOR is neutral (TOR  in other two games was home team)
+  - 2015 last three games (championship-weekend) Avaya was not home stadium to SJ
+  - 2016 Two games without MAD in them were neutral
+  - 2017 all three championship weekend games are neutral
+- Move above into scrapers
+
+
+- Determine how to handle forfeits (in 2012 indicated by 1-0 scores for now)
+- Fix game_id to handle multiple of same matchup on same day_of_season
+
+
+Statistical Model To-Do:
+  X- Home Court Advantage = 63.42 elo or 2 audl points
+  - K
+  - Changed K to 48 to fit that 95-105 elo advantage should mean a win 64% of the time
+    - Graphs look pretty noisey now
+    - Leaves only 58 % of teams between 1300 and 1700 (want about 90%)
+  - MOVM
+  - y2y regression to mean (currently 1/3)
+    - Including mean to regress to (1505?)
+  - Starting elo
+
+  - K using grid search
+
+
+SQL
+  -Build SQL logic into audl_elo.py script
+  -Figure out error on franchises table
+  -add sql creation files (sqlite postgres) to git.ignore

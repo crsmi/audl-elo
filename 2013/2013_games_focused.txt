@@ -1,0 +1,1244 @@
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"></td>
+    <td align="right" valign="middle"><a href="javascript:animatedcollapse.show([&#39;1&#39;, &#39;2&#39;, &#39;3&#39;, &#39;4&#39;, &#39;5&#39;, &#39;6&#39;, &#39;7&#39;, &#39;8&#39;, &#39;9&#39;, &#39;10&#39;, &#39;11&#39;, &#39;12&#39;, &#39;13&#39;, &#39;14&#39;])">Show All</a> | <a href="javascript:animatedcollapse.hide([&#39;1&#39;, &#39;2&#39;, &#39;3&#39;, &#39;4&#39;, &#39;5&#39;, &#39;6&#39;, &#39;7&#39;, &#39;8&#39;, &#39;9&#39;, &#39;10&#39;, &#39;11&#39;, &#39;12&#39;, &#39;13&#39;, &#39;14&#39;])">Hide All</a></td>
+  </tr>
+  <tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[1]">Week 1 | April 12</a></td>
+    <td align="right" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[1]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/open.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="1" align="center" style="width: 640px; display: none;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Friday, April 12</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:30 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Revolution</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">15 - 26</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Wildfire</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://cincinnatirevolution.inticketing.com/events/297111/Revolution%20Vs.%20Windy%20City%20Wildfire" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Saturday, April 13</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Mechanix</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">24 - 30</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>AlleyCats</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://detmechanix.ticketleap.com/04-13-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://golivesportscast.com/2013/04/mechanix-vs-the-alley-cats-2013-audl-home-opener-april-13th/" target="_blank">Online</a></td>
+      </tr>
+    </tbody></table>
+  </div>
+<!---Week 2--->
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[2]">Week 2 | April 19</a></td>
+    <td width="16" align="center" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[2]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/open.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="2" align="center" style="width: 640px; display: none;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Saturday, April 20</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">1:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Breeze</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">13 - 30</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Rush</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://dcbreeze.ticketleap.com/dc-breeze-2012/dates/Apr-20-2013_at_0100PM" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Empire</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">23 - 14</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Dragons</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://nyempiredragons-eorg.eventbrite.com/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:30 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">AlleyCats</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">25 - 34</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Wind Chill</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://homeaccount.ticketleap.com/2013-indianapolis-alleycats-home-game-1/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Wildfire</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">21 - 22</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>Radicals</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://wc-wildfire.ticketleap.com/04-20-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Sunday, April 21</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">1:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Phoenix</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">25 - 26</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Rush</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://phlphoenix.ticketleap.com/game-1/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">2:30 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Revolution</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">22 - 21</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Wind Chill</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://cincinnatirevolution.inticketing.com/events/297195/Revolution%20Vs.%20Minnesota%20Wind%20Chill" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">4:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Hammerheads</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">28 - 13</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Dragons</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://njhammerheads.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">5:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Mechanix</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">25 - 24</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Radicals</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://detmechanix.ticketleap.com/04-21-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://golivesportscast.com/home-2/" target="_blank">Online</a></td>
+      </tr>
+    </tbody></table>
+  </div>
+<!---Week 3--->
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[3]">Week 3 | April 26</a></td>
+    <td width="16" align="center" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[3]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/open.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="3" align="center" style="width: 640px; display: none;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Saturday, April 27</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">12:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Phoenix</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">26 - 14</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Dragons</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://phlphoenix.ticketleap.com/game-2/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">6:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Empire</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">14 - 22</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>Rush</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://nyempirerush-eorg.eventbrite.com/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:30 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Revolution</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">11 - 15</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Mechanix</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://cincinnatirevolution.inticketing.com/events/297196/Revolution%20Vs.%20Detroit%20Mechanix" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:30 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">AlleyCats</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">15 - 25</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>Wildfire</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://homeaccount.ticketleap.com/game-2--april-272013-cats-vs-chicago-windy-city-wildfire/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Wind Chill</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">20 - 22</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Radicals</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.windchillultimate.com/product_p/12.htm" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Sunday, April 28</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">3:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Breeze</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">26 - 25</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Dragons</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://dcbreeze.ticketleap.com/dc-breeze-2012/dates/Apr-28-2013_at_0300PM" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">3:00 CST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Wildfire</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">23 - 16</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Revolution</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://wc-wildfire.ticketleap.com/04-28-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://golivesportscast.com/2013/04/wildfire-vs-the-revolution-2013-audl-ultimate-disc-april-28th-3pm/" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">4:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Hammerheads</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">19 - 29</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>Rush</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://njhammerheads.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+    </tbody></table>
+  </div>
+<!---Week 4--->
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[4]">Week 4 | May 3</a></td>
+    <td width="16" align="center" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[4]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/open.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="4" align="center" style="width: 640px; display: none;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Friday, May 3</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Radicals</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">19 - 15</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Wind Chill</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/https://radicalsultimate.com/?q=node/15" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Saturday, May 4</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">3:30 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Mechanix</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">22 - 16</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Wind Chill</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://detmechanix.ticketleap.com/05-04-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://golivesportscast.com/home-2/" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">5:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Empire</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">25 - 11</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Breeze</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://nyempirebreeze54-eorg.eventbrite.com/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Rush</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">31 - 18</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Hammerheads</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/https://www.vendini.com/ticket-software.html?t=tix&amp;e=26718bda5b03a74553683cadf0345455" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Wildfire</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">25 - 17</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">AlleyCats</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://wc-wildfire.ticketleap.com/05-04-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Sunday, May 5</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">1:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Phoenix</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">23 - 18</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Breeze</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://phlphoenix.ticketleap.com/game-3/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">2:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Mechanix</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">22 - 23</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Revolution</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://detmechanix.ticketleap.com/05-05-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://golivesportscast.com/home-2/" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">2:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Dragons</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">20 - 15</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Hammerheads</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://rochesterdragons.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+    </tbody></table>
+  </div>
+<!---Week 5--->
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[5]">Week 5 | May 10</a></td>
+    <td width="16" align="center" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[5]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/open.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="5" align="center" style="width: 640px; display: none;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Saturday, May 11</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">3:30 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Phoenix</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">PPD</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Hammerheads</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://phlphoenix.ticketleap.com/game-4/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Dragons</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">21 - 20</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Empire</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://rochesterdragons.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Wind Chill</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">15 - 18</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Wildfire</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.windchillultimate.com/product_p/131.htm" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Sunday, May 12</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">2:30 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Revolution</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">17 - 10</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Mechanix</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://cincinnatirevolution.inticketing.com/events/297197/Revolution%20Vs.%20Detroit%20Mechanix" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">3:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Breeze</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">18 - 13</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Hammerheads</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://dcbreeze.ticketleap.com/dc-breeze-2012/dates/May-12-2013_at_0300PM" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">3:00 CST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Radicals</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">15 - 16</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>Wildfire</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/https://radicalsultimate.com/?q=tickets/flex" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">4:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Rush</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">16 - 9</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Empire</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/https://www.vendini.com/ticket-software.html?t=tix&amp;e=f37bf0b60475e75ccaabe73a303145e1" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+    </tbody></table>
+  </div>
+<!---Week 6--->
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[6]">Week 6 | May 17</a></td>
+    <td width="16" align="center" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[6]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/open.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="6" align="center" style="width: 640px; display: none;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Saturday, May 18</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">1:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Breeze</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">17 - 18</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Phoenix</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://dcbreeze.ticketleap.com/dc-breeze-2012/dates/May-18-2013_at_0100PM" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Dragons</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">21 - 28</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>Rush</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://rochesterdragons.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Hammerheads</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">16 - 24</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Empire</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://njhammerheads.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:30 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>AlleyCats</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">28 - 21</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Revolution</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://wc-wildfire.ticketleap.com/06-08-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Radicals</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">26 - 16</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Mechanix</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/https://radicalsultimate.com/?q=tickets/flex" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Sunday, May 19</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">2:00 CST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Wind Chill</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">20 - 6</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Mechanix</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://www.windchillultimate.com/product_p/141.htm" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+    </tbody></table>
+  </div>
+<!---Week 7--->
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[7]">Week 7 | May 24</a></td>
+    <td width="16" align="center" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[7]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/open.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="7" align="center" style="width: 640px; display: none;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Friday, May 24</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Radicals</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">27 - 23</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Wind Chill</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/https://radicalsultimate.com/?q=tickets/flex" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Saturday, May 25</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">1:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Breeze</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">14 - 16</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>Dragons</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://dcbreeze.ticketleap.com/dc-breeze-2012/dates/May-25-2013_at_0100PM" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Mechanix</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">19 - 23</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Wildfire</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://detmechanix.ticketleap.com/05-25-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://golivesportscast.com/home-2/" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Hammerheads</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">15 - 20</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>Phoenix</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://njhammerheads.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:30 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Revolution</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">21 - 27</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>AlleyCats</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://cincinnatirevolution.inticketing.com/events/297198/Revolution%20Vs.%20Indianapolis%20Alley%20Cats" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Sunday, May 26</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">1:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Phoenix</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">17 - 16</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Dragons</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://phlphoenix.ticketleap.com/game-5/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">2:30 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Revolution</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">19 - 23</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>AlleyCats</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://cincinnatirevolution.inticketing.com/events/297199/Revolution%20Vs.%20Indianapolis%20Alley%20Cats" target="_top">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+    </tbody></table>
+  </div>
+<!---Week 8--->
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[8]">Week 8 | May 31</a></td>
+    <td width="16" align="center" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[8]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/open.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="8" align="center" style="width: 640px; display: none;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Saturday, June 1</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">4:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Rush</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">28 - 18</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Phoenix</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/https://www.vendini.com/ticket-software.html?t=tix&amp;e=d0af0039cbc005c5d9faa1ca137aedf2" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Hammerheads</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">20 - 22</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>Breeze</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://njhammerheads.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Wind Chill</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">26 - 9</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Revolution</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.windchillultimate.com/product_p/151.htm" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Sunday, June 2</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">2:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Dragons</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">14 - 12</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Phoenix</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://rochesterdragons.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">3:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Empire</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">23 - 13</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Breeze</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://dcbreeze.ticketleap.com/dc-breeze-2012/dates/May-25-2013_at_0100PM" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">3:00 CST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Radicals</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">26 - 20</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Revolution</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/https://radicalsultimate.com/?q=tickets/flex" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:30 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">AlleyCats</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">22 - 26</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Wildfire</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://homeaccount.ticketleap.com/game-5--june-2-2013-vs-chicago-windy-city-wildfire/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+    </tbody></table>
+  </div>
+<!---Week 9--->
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[9]">Week 9 | June 7</a></td>
+    <td width="16" align="center" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[9]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/open.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="9" align="center" style="width: 640px; display: none;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Friday, June 7</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Wind Chill</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">24 - 25</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Radicals</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.windchillultimate.com/product_p/16.htm" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Saturday, June 8</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">3:30 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Phoenix</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">31 - 27</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Breeze</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://phlphoenix.ticketleap.com/game-6/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Dragons</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">26 - 20</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Hammerheads</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://rochesterdragons.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Wildfire</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">21 - 9</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Mechanix</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://wc-wildfire.ticketleap.com/06-08-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Sunday, June 9</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">2:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Rush</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">33 - 15</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Hammerheads</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/https://www.vendini.com/ticket-software.html?t=tix&amp;e=d91f443c1af68c954339b27a7d22d72c" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">5:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Empire</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">19 - 18</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Phoenix</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://nyempirephoenix69-eorg.eventbrite.com/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:30 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>AlleyCats</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">27 - 23</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Mechanix</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://homeaccount.ticketleap.com/game-3--may-11-2013-cats-vs-detroit-mechanix-at-south-bend-in/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+    </tbody></table>
+  </div>
+<!---Week 10--->
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[10]">Week 10 | June 14</a></td>
+    <td width="16" align="center" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[10]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/open.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="10" align="center" style="width: 640px; display: none;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Saturday, June 15</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">3:30 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Phoenix</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">17 - 21</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Empire</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://phlphoenix.ticketleap.com/game-7/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:30 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Revolution</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">23 - 21</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Radicals</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://cincinnatirevolution.inticketing.com/events/297200/Revolution%20Vs.%20Madison%20Radicals" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Wildfire</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">26 - 25</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Wind Chill</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://wc-wildfire.ticketleap.com/06-15-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Sunday, June 16</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">2:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Rush</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">25 - 22</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Dragons</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/https://www.vendini.com/ticket-software.html?t=tix&amp;e=b80751f836b043fc3adfa1d2b9d0d0a3" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">3:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Breeze</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">16 - 19</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Empire</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://dcbreeze.ticketleap.com/dc-breeze-2012/dates/Jun-16-2013_at_0300PM" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">4:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Hammerheads</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">17 - 21</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>Phoenix</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://njhammerheads.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:30 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">AlleyCats</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">22 - 24</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Radicals</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://homeaccount.ticketleap.com/game-6--june-16-2013-vs-madison-radicals/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+    </tbody></table>
+  </div>
+<!---Week 11--->
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[11]">Week 11 | June 21</a></td>
+    <td width="16" align="center" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[11]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/open.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="11" align="center" style="width: 640px; display: none;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Saturday, June 22</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">4:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Mechanix</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">26 - 34</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Wildfire</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://detmechanix.ticketleap.com/06-22-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">4:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Rush</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">40 - 16</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Breeze</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/https://www.vendini.com/ticket-software.html?t=tix&amp;e=5a9b2819d0f6da3ab09ed24edf89a03e" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">6:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Empire</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">23 - 22</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Phoenix</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://nyempirephoenix2-eorg.eventbrite.com/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Radicals</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">20 - 16</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">AlleyCats</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/https://radicalsultimate.com/?q=tickets/flex" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Sunday, June 23</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">2:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Dragons</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">24 - 20</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Breeze</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://rochesterdragons.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">2:00 CST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Wind Chill</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">21 - 29</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>AlleyCats</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://www.windchillultimate.com/product_p/17.htm" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">2:30 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Revolution</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">17 - 20</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Wildfire</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://cincinnatirevolution.inticketing.com/events/297202/Revolution%20Vs.%20Windy%20City%20Wildfire" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">4:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Hammerheads</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">21 - 18</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Empire</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://njhammerheads.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+    </tbody></table>
+  </div>
+<!---Week 12--->
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[12]">Week 12 | June 28</a></td>
+    <td width="16" align="center" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[12]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/open.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="12" align="center" style="width: 640px; display: none;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Saturday, June 29</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">1:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Breeze</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">21 - 23</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Phoenix</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://dcbreeze.ticketleap.com/dc-breeze-2012/dates/Jun-29-2013_at_0100PM" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">3:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Empire</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">22 - 9</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Hammerheads</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://nyempire629-eorg.eventbrite.com/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">4:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Rush</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">28 - 18</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Dragons</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/https://www.vendini.com/ticket-software.html?t=tix&amp;e=89214309618c098e84ebf8298651c843" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">6:00 CST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Wildfire</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">13 - 15</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>Radicals</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://wc-wildfire.com/kovler/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Wind Chill</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">35 - 24</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Revolution</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.windchillultimate.com/product_p/18.htm" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:30 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>AlleyCats</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">24 - 17</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Mechanix</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://homeaccount.ticketleap.com/game-7--jume-29-2013-vs-detroit-mechanix/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Sunday, June 30</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">1:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Phoenix</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">20 - 17</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Hammerheads</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://phlphoenix.ticketleap.com/new-jersey-at-philadelphia-makeup/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">2:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Dragons</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">20 - 26</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>Rush</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://rochesterdragons.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">4:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Mechanix</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">22 - 29</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Radicals</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://detmechanix.ticketleap.com/06-30-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+    </tbody></table>
+  </div>
+<!---Week 13--->
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[13]">Week 13 | July 5</a></td>
+    <td width="16" align="center" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[13]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/open.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="13" align="center" style="width: 640px; display: none;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Friday, July 5</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Wildfire</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">28 - 13</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Wind Chill</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://wc-wildfire.ticketleap.com/07-05-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Saturday, July 6</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Dragons</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">22 - 27</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>Empire</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://rochesterdragons.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Hammerheads</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">17 - 24</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Breeze</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://njhammerheads.com/events/tickets/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:30 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>AlleyCats</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">29 - 9</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Wind Chill</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://homeaccount.ticketleap.com/game-8--july-6-2013-vs-minnesota-wind-chill/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Radicals</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">28 - 18</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Revolution</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/https://radicalsultimate.com/?q=tickets/flex" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Sunday, July 7</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">4:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Mechanix</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">17 - 16</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Revolution</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://detmechanix.ticketleap.com/07-07-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">4:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Rush</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">28 - 16</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Empire</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/https://www.vendini.com/ticket-software.html?t=tix&amp;e=806fa3cbddec12d072951a4e200b0a72" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+    </tbody></table>
+  </div>
+<!---Week 14--->
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[14]">Week 14 | July 12</a></td>
+    <td width="16" align="center" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[14]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/open.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="14" align="center" style="width: 640px; display: none;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Friday, July 12</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Wildfire</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">32 - 19</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Mechanix</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://wc-wildfire.ticketleap.com/07-12-13/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Saturday, July 13</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">1:00 EST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Breeze</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">17 - 31</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>Rush</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://dcbreeze.ticketleap.com/dc-breeze-2012/dates/Jul-13-2013_at_0100PM" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">5:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Empire</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">25 - 16</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Hammerheads</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.eventbrite.com/event/5814540447/eorg" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">7:00 CST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">Wind Chill</td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">18 - 24</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB"><u>AlleyCats</u></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://www.windchillultimate.com/product_p/19.htm" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Sunday, July 14</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">1:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Phoenix</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">24 - 35</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Rush</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://phlphoenix.ticketleap.com/game-8/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">3:00 CST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Radicals</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">25 - 23</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">AlleyCats</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/https://radicalsultimate.com/?q=tickets/flex" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+    </tbody></table>
+  </div>
+<!---Playoff 1--->
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[p1]">Divisional Playoffs | July 26</a></td>
+    <td width="16" align="center" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[p1]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/close.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="p1" align="center" style="width: 640px;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Friday, July 26</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">7:00 EST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><u>Empire</u></td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">21 - 13</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Phoenix</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://phlphoenix.ticketleap.com/playoffs/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Saturday, July 27</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">12:00 CST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Radicals</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">18 - 15</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">AlleyCats</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/https://radicalsultimate.com/?q=tickets/game2" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+      </tr>
+    </tbody></table>
+  </div>
+<!---Champ--->
+<table align="center" width="640" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr class="gradient">
+    <td align="left" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[c]">Championship Weekend | August 3</a></td>
+    <td width="16" align="center" valign="middle"><a href="https://web.archive.org/web/20130930190446/http://theaudl.com/network/schedule/#" rel="toggle[c]" data-openimage="images/close.gif" data-closedimage="images/open.gif"><img src="./AUDL __ 2013 Schedule_files/close.gif" width="16" height="16" border="0"></a></td>
+  </tr>
+</tbody></table>
+  <div id="c" align="center" style="width: 640px;" fade="1" speed="250">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tbody><tr class="gradient">
+        <td width="150" align="left" valign="top"><strong>Date</strong></td>
+        <td width="70" align="right" valign="top"><strong>Time</strong></td>
+        <td width="110" align="right" valign="top"><strong>Home Team</strong></td>
+        <td align="center" valign="top">&nbsp;</td>
+        <td width="110" align="left" valign="top"><strong>Away Team</strong></td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+        <td width="60" align="right" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Saturday, August 3</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">2:00 CST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Wildfire</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">15 - 21</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC"><u>Radicals</u></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://theaudl.ticketleap.com/2013-audl-championship-ii/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#BBBBBB">&nbsp;</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB">6:00 CST</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><u>Rush</u></td>
+        <td align="center" valign="top" bgcolor="#BBBBBB">25 - 18</td>
+        <td align="left" valign="top" bgcolor="#BBBBBB">Empire</td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://theaudl.ticketleap.com/2013-audl-championship-ii/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#BBBBBB"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Sunday, August 4</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">1:00 CST</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC">Rush</td>
+        <td align="center" valign="top" bgcolor="#CCCCCC">16 - 14</td>
+        <td align="left" valign="top" bgcolor="#CCCCCC">Radicals</td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://theaudl.ticketleap.com/2013-audl-championship-ii/" target="_blank">Tickets</a></td>
+        <td align="right" valign="top" bgcolor="#CCCCCC"><a href="https://web.archive.org/web/20130930190446/http://www.uxtvnetwork.com/ustore" target="_blank">Online</a></td>
+      </tr>
+    </tbody></table>
+  </div>
+</td>
+</tr>
+</tbody></table>

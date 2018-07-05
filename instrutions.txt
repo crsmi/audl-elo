@@ -1,0 +1,35 @@
+(Each step of the instructions is dependent on "year_audl_teams.csv" being created and accurate)
+
+2012
+1. Run scraper_2012.py to scrape all game scores from the leaguevine score site (file segment created from live page)
+2. Run get_elo_2012.py to generate 2012 season elo data
+
+2013
+1. Run scraper_2013.py to scrape all game scores from audl score site (file segmented from archived page)
+2. Run get_elo_2013.py to generate 2013 season elo data
+
+2014
+1. Run scraper_2014.py to scrape all games and most scores from saved archive page in 2014_audl_games
+2. Replace FILL on all playoff games with scores from https://en.wikipedia.org/wiki/2014_American_Ultimate_Disc_League_season
+3. Add final column for championship game
+3. Run get_elo_2014.py to generate 2014 season elo data
+
+2015
+1. Run scraper_2015.py to scrape all game scores from audl score site (saved archive page)
+2. Run get_elo_2015.py to generate 2015 season elo data
+
+2016
+1. Run scraper_2016_alternate.py to scrape each team's 2016 schedule page (except CHA and CIN) for games (all pages archived)
+2. Run get_elo_2016.py to generate 2016 season elo data
+
+2017
+1. Run scraper_2017.py to scrape all game scores from audl score site (saved archive page)
+2. Run get_elo_2017.py to generate 2017 season elo data
+
+2018
+1. Run scraper_2018.py to scrape all game scores from the audl schedule page (live)
+2. Run get_elo_2018.py to generate 2018 season elo data
+
+Combined data
+1. Complete all above instructions to create "year_audl_games.csv" for each year
+2. Run audl_elo.py to create audl_elo.csv with elo information for all games and all years

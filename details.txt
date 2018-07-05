@@ -1,0 +1,3 @@
+- Home field advantage is only given if playing in the regular season stadium ( I think 2015 Avaya was not SJ's stadium)
+- Forfeits are counted as 1-0 victories for the other team
+- 4th to last digit of game_id is in case of multiple of the same matchup on the same day

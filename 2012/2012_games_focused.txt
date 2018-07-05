@@ -1,0 +1,2610 @@
+<div id="chart_table">
+        <table>
+
+
+
+
+
+
+
+
+
+                <tbody><tr class="colhead">
+                    <td width="130px">Saturday 8/11/12</td>
+                    <td width="180px">Team</td>
+                    <td width="100px">Result</td>
+                    <td width="180px">Team</td>
+                    <td width="105px">Update</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 1:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/79764/">
+                        22 - 29</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/79764/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">30 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/79764/score/create/ajax/" href="/games/79764/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Saturday 8/4/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 7:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/79766/">
+                        35 - 21</a>
+
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/79766/score/create/ajax/" href="/games/79766/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Sunday 7/29/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Sunday, 5:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/79765/">
+                        20 - 24</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/79765/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">137 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/79765/score/create/ajax/" href="/games/79765/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Sunday 7/22/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Sunday, 1:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21915/">
+                        17 - 19</a>
+
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21915/score/create/ajax/" href="/games/21915/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Saturday 7/21/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 6:30pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21914/">
+                        0 - 1</a>
+
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21914/score/create/ajax/" href="/games/21914/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 4:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21913/">
+                        22 - 20</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21913/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">80 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21913/score/create/ajax/" href="/games/21913/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 1:05pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21912/">
+                        20 - 29</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21912/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">4 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21912/score/create/ajax/" href="/games/21912/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Sunday 7/15/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Sunday, 2:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21911/">
+                        27 - 17</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21911/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">97 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21911/score/create/ajax/" href="/games/21911/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Sunday, 2:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21910/">
+                        25 - 20</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21910/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">39 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21910/score/create/ajax/" href="/games/21910/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Saturday 7/14/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 7:30pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21909/">
+                        19 - 16</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21909/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">73 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21909/score/create/ajax/" href="/games/21909/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 3:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21908/">
+                        21 - 27</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21908/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">105 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21908/score/create/ajax/" href="/games/21908/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 1:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21907/">
+                        1 - 0</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21907/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">47 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21907/score/create/ajax/" href="/games/21907/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Sunday 7/8/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Sunday, 4:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21906/">
+                        26 - 27</a>
+
+
+                <br>
+                        <a class="plain" href="/games/21906/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">105 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21906/score/create/ajax/" href="/games/21906/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Sunday, 2:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21905/">
+                        35 - 13</a>
+
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21905/score/create/ajax/" href="/games/21905/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Sunday, 2:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21904/">
+                        0 - 1</a>
+
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21904/score/create/ajax/" href="/games/21904/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Saturday 7/7/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 7:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21903/">
+                        0 - 1</a>
+
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21903/score/create/ajax/" href="/games/21903/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 2:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21902/">
+                        1 - 0</a>
+
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21902/score/create/ajax/" href="/games/21902/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Sunday 7/1/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Sunday, 2:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21901/">
+                        15 - 24</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21901/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">40 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21901/score/create/ajax/" href="/games/21901/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Saturday 6/30/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 7:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21900/">
+                        0 - 1</a>
+
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21900/score/create/ajax/" href="/games/21900/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 6:30pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21899/">
+                        19 - 21</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21899/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">106 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21899/score/create/ajax/" href="/games/21899/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+        <tr class="colhead">
+                    <td width="130px">Saturday 6/30/12</td>
+                    <td width="180px">Team</td>
+                    <td width="100px">Result</td>
+                    <td width="180px">Team</td>
+                    <td width="105px">Update</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 4:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21898/">
+                        23 - 22</a>
+
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21898/score/create/ajax/" href="/games/21898/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 3:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21897/">
+                        0 - 1</a>
+
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21897/score/create/ajax/" href="/games/21897/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Sunday 6/24/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Sunday, 3:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21896/">
+                        20 - 24</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21896/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">45 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21896/score/create/ajax/" href="/games/21896/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Sunday, 2:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/27658/">
+                        24 - 27</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/27658/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">80 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/27658/score/create/ajax/" href="/games/27658/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Sunday, 2:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21895/">
+                        20 - 22</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21895/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">88 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21895/score/create/ajax/" href="/games/21895/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Saturday 6/23/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 7:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21894/">
+                        13 - 17</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21894/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">122 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21894/score/create/ajax/" href="/games/21894/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 7:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21893/">
+                        25 - 30</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21893/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">72 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21893/score/create/ajax/" href="/games/21893/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 6:30pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21892/">
+                        29 - 18</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21892/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">39 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21892/score/create/ajax/" href="/games/21892/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 3:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21891/">
+                        12 - 11</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21891/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">40 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21891/score/create/ajax/" href="/games/21891/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Sunday 6/17/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Sunday, 7:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21890/">
+                        21 - 23</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21890/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">47 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21890/score/create/ajax/" href="/games/21890/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Saturday 6/16/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 6:30pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21889/">
+                        26 - 21</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21889/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">97 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21889/score/create/ajax/" href="/games/21889/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 2:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21888/">
+                        20 - 23</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21888/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">57 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21888/score/create/ajax/" href="/games/21888/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 1:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21887/">
+                        29 - 19</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21887/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">51 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21887/score/create/ajax/" href="/games/21887/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Saturday 6/9/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 5:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21886/">
+                        16 - 33</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21886/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">60 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21886/score/create/ajax/" href="/games/21886/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 1:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21885/">
+                        18 - 24</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21885/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">103 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21885/score/create/ajax/" href="/games/21885/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Sunday 6/3/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Sunday, 2:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21884/">
+                        0 - 0</a>*
+
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21884/score/create/ajax/" href="/games/21884/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Saturday 6/2/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 7:30pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21883/">
+                        18 - 20</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21883/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">31 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21883/score/create/ajax/" href="/games/21883/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 6:30pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21882/">
+                        17 - 13</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21882/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">82 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21882/score/create/ajax/" href="/games/21882/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 1:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21880/">
+                        21 - 24</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21880/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">21 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21880/score/create/ajax/" href="/games/21880/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Sunday 5/27/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Sunday, 5:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21879/">
+                        20 - 23</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21879/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">89 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21879/score/create/ajax/" href="/games/21879/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+        <tr class="colhead">
+                    <td width="130px">Sunday 5/27/12</td>
+                    <td width="180px">Team</td>
+                    <td width="100px">Result</td>
+                    <td width="180px">Team</td>
+                    <td width="105px">Update</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Sunday, 2:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21878/">
+                        25 - 24</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21878/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">22 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21878/score/create/ajax/" href="/games/21878/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Saturday 5/26/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 7:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21877/">
+                        28 - 21</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21877/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">54 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21877/score/create/ajax/" href="/games/21877/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 3:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21876/">
+                        20 - 21</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21876/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">12 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21876/score/create/ajax/" href="/games/21876/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 1:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21875/">
+                        21 - 28</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21875/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">117 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21875/score/create/ajax/" href="/games/21875/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Sunday 5/20/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Sunday, 2:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21874/">
+                        19 - 18</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21874/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">85 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21874/score/create/ajax/" href="/games/21874/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Sunday, 2:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21873/">
+                        23 - 21</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21873/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">44 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21873/score/create/ajax/" href="/games/21873/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Saturday 5/19/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 7:30pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21872/">
+                        18 - 20</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21872/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">35 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21872/score/create/ajax/" href="/games/21872/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 1:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21871/">
+                        20 - 22</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21871/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">43 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21871/score/create/ajax/" href="/games/21871/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Saturday 5/12/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 7:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21870/">
+                        19 - 21</a>
+
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21870/score/create/ajax/" href="/games/21870/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 2:15pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21869/">
+                        18 - 24</a>
+
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21869/score/create/ajax/" href="/games/21869/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 2:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21868/">
+                        29 - 37</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21868/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">1 tweet</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21868/score/create/ajax/" href="/games/21868/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 1:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21867/">
+                        15 - 30</a>
+
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21867/score/create/ajax/" href="/games/21867/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Sunday 5/6/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Sunday, 5:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21866/">
+                        20 - 26</a>
+
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21866/score/create/ajax/" href="/games/21866/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Saturday 5/5/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 7:30pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21865/">
+                        13 - 22</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21865/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">35 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21865/score/create/ajax/" href="/games/21865/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 3:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21864/">
+                        19 - 20</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21864/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">69 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21864/score/create/ajax/" href="/games/21864/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 1:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21863/">
+                        23 - 29</a>
+
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21863/score/create/ajax/" href="/games/21863/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Sunday 4/29/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Sunday, 4:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21862/">
+                        22 - 26</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21862/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">59 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21862/score/create/ajax/" href="/games/21862/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Saturday 4/28/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 7:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21861/">
+                        30 - 22</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21861/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">63 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21861/score/create/ajax/" href="/games/21861/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 7:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21860/">
+                        8 - 12</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21860/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">30 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21860/score/create/ajax/" href="/games/21860/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Sunday 4/22/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Sunday, 4:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21859/">
+                        26 - 24</a>
+
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21859/score/create/ajax/" href="/games/21859/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+        <tr class="colhead">
+                    <td width="130px">Saturday 4/21/12</td>
+                    <td width="180px">Team</td>
+                    <td width="100px">Result</td>
+                    <td width="180px">Team</td>
+                    <td width="105px">Update</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 8:05pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21858/">
+                        16 - 22</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21858/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">8 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21858/score/create/ajax/" href="/games/21858/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 7:30pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21857/">
+                        20 - 18</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21857/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">57 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21857/score/create/ajax/" href="/games/21857/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 1:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21856/">
+                        22 - 19</a>
+
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21856/score/create/ajax/" href="/games/21856/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+
+                <tr class="colhead">
+                    <td colspan="100%">Saturday 4/14/12</td>
+                </tr>
+
+
+        <tr>
+            <td>
+                Saturday, 8:05pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18740/buffalo-hunters/">Buffalo Hunters</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21916/">
+                        14 - 26</a>
+
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18741/philadelphia-spinners/">Philadelphia Spinners</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21916/score/create/ajax/" href="/games/21916/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 7:00pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18738/detroit-mechanix/">Detroit Mechanix</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21855/">
+                        17 - 19</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21855/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">14 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18739/bluegrass-revolution/">Bluegrass Revolution</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21855/score/create/ajax/" href="/games/21855/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 5:45pm
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+                    <a href="/teams/18736/indianapolis-alleycats/">Indianapolis AlleyCats</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/21854/">
+                        21 - 22</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/21854/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">10 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+
+                        <a href="/teams/18737/columbus-cranes/">Columbus Cranes</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/21854/score/create/ajax/" href="/games/21854/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+                Saturday, 3:00pm
+
+
+            </td>
+            <td class="winning_team">
+                <div class="game_team">
+                    <a href="/teams/18734/connecticut-constitution/">Connecticut Constitution</a>
+                </div>
+            </td>
+            <td>
+
+                    <a href="/games/26438/">
+                        29 - 23</a>
+
+
+                        <br>
+                        <a class="plain" href="/games/26438/"><span class="num_tweets_container"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/twitter-favicon.png"><img src="https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/num_tweets_left_border.png"><span class="num_tweets">5 tweets</span></span>
+</a>
+
+
+            </td>
+            <td class="">
+                <div class="game_team">
+
+                        <a href="/teams/18735/rhode-island-rampage/">Rhode Island Rampage</a>
+
+                </div>
+            </td>
+
+            <td><a class="" form-url="/games/26438/score/create/ajax/" href="/games/26438/score/create/?next=/seasons/20059/audl-2012/games/">+ Update Score</a></td>
+        </tr>
+
+
+
+        </tbody></table>
+    </div>
