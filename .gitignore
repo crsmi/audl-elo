@@ -10,6 +10,7 @@ changes.txt
 gridsearch.py
 koptimize.py
 *_files/
+mlb_records.csv
 
 
 # Byte-compiled / optimized / DLL files

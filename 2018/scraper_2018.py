@@ -39,7 +39,7 @@ def get_weeks_games(week):
 
 def run():
     games = pandas.DataFrame(columns = ["date","team_id","pts","opp_id","opp_pts","is_playoffs"])
-    pages = ["week-" + str(i) for i in range(1,15)]
+    pages = ["week-" + str(i) for i in range(1,17)] + ['playoffs']
 
     for page in pages:
         new_games = pandas.DataFrame(get_weeks_games(page),columns = ["date","team_id","pts","opp_id","opp_pts","is_playoffs"])

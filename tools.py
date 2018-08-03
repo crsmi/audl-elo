@@ -272,6 +272,7 @@ def one_plot(team_input, title = "Elo Ratings", label = "team_name", team_colors
             colors.append(color)
     else:
         colors = ['b','g','r','c','m','y','k']
+        colors = ['C0','C1','C2','C3','C4','C5','C6','C7','C8','C9','w']
 
 
     count = 0
@@ -306,12 +307,19 @@ def one_plot(team_input, title = "Elo Ratings", label = "team_name", team_colors
         if team in target_teams:
             count += 1
             teams_legend.append(handle)
+
     #Formatting
     ax.xaxis.set_ticks_position('none')
     #ax.set_xlabel(years)
     ax.tick_params('x',labelbottom=True)
     ax.set_ylim(1150,1850)
-    ax.set_xlim(years[0],years[-1]+1.1)
+    ax.set_xlim(years[0],years[-1]+1)
+
+    #Labeling x-axis in between ticks
+    ax.set_xticklabels([]) #remove major tick labels
+    ax.set_xticks([year+.5 for year in years], minor=True)
+    ax.set_xticklabels(years, minor=True)
+
     ax.grid(True)
     ax.yaxis.tick_left()
     ax.set_yticks(range(1200,1900,100))
@@ -356,9 +364,17 @@ def predict_results():
     g = pd.read_csv("audl_elo.csv")
     g["date"] = pd.to_datetime(g["date"])
     t = g[g["date"] >= datetime.datetime.today()-datetime.timedelta(days=days_diff)]
-    t = t[t['game_location'] == 'H']
-    t["elo_diff"] = t.loc[:,"elo_i"] - t.loc[:,"opp_elo_i"] + HFA
+    # Filter to only one row per game
+    t = t[(t['game_location'] == 'H') |
+         ((t['game_location'] == 'N') & (t['_iscopy'] == 0))]
+    if t.shape[0] == 0:
+        print("No future games to predict.")
+        return
+    t['hfa'] = HFA
+    t.loc[t['game_location'] == 'N','hfa'] = 0
+    t["elo_diff"] = t.loc[:,"elo_i"] - t.loc[:,"opp_elo_i"] + t.loc[:,"hfa"]
     t["audl_diff"] = t["elo_diff"]*ELO_POINT_RATIO
+
 
     # Get a prediction of the total nubmer of points score in each game
     # based on previous games this year (2018).
