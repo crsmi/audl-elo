@@ -1,0 +1,22 @@
+division,abbr,team_name,franchise,href,color1,color2
+EAST,DC,DC Breeze,Breeze,breeze,#0A3751,#B7202B
+EAST,MTL,Montreal Royal,Royal,royal,#112a49,#c36d39
+EAST,NY,New York Empire,Empire,empire,#69bd45,#231f20
+EAST,OTT,Ottawa Outlaws,Outlaws,outlaws,#8bc53f,#58595b
+EAST,PHI,Philadelphia Phoenix,Phoenix,phoenix,#a51209,#fd1d14
+EAST,TOR,Toronto Rush,Rush,rush,#c52033,#000000
+MIDWEST,CHI,Chicago Wildfire,Wildfire,wildfire,#2F398E,#F05A24
+MIDWEST,DET,Detroit Mechanix,Mechanix,mechanix,#660000,#000000
+MIDWEST,IND,Indianapolis AlleyCats,Alleycats,alleycats,#00703C,#000000
+MIDWEST,MAD,Madison Radicals,Radicals,radicals,#003a5c,#aca300
+MIDWEST,MIN,Minnesota Wind Chill,Windchill,windchill,#6f7f98,#000000
+MIDWEST,PIT,Pittsburgh Thunderbirds,Thunderbirds,thunderbirds,#fdbc11,#414042
+WEST,LA,Los Angeles Aviators,Aviators,aviators,#a22b2a,#000000
+WEST,SD,San Diego Growlers,Growlers,growlers,#000000,#ec1c24
+WEST,SJ,San Jose Spiders,Spiders,spiders,#febd25,#000000
+WEST,SEA,Seattle Cascades,Cascades,cascades,#08192d,#195187
+SOUTH,ATL,Atlanta Hustle,Hustle,hustle,#333366,#666666
+SOUTH,AUS,Austin Sol,Sol,sol,#2B3283,#E74A37
+SOUTH,DAL,Dallas Roughnecks,Roughnecks,roughnecks,#171443,#ed1c24
+SOUTH,TB,Tampa Bay Cannons,Cannons,cannons,#000000,#ffcf01
+SOUTH,RAL,Raleigh Flyers,Flyers,flyers,#004c7e,#e41c24

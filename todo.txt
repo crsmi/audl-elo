@@ -1,3 +1,36 @@
+2019 TODO
+
+X- Set up scraper code - 2018 should work
+- Set up get_elo_2019?
+
+- New prediction/schedule functions
+  - Give a schedule for each team (with/without scores, w/(o) elo, w/(o) predictions)
+  - Give weekly predictions based on current elo
+    - Give over/under prediction
+  - Keep track of current elo?
+
+- Update graph code to show 2019 season.
+- Publish something
+- Update model
+
+- Options to re-calc all or just new game results in audl_elo.py
+
+- Write script to log into audlpicks and choose the picks
+  - Selenium?
+
+- Clean up (cookie cutter?) the directory
+- Update with models as objects like in birkielo
+
+- Add in "Week" functionality
+
+- Add in rounding of elos (3 decimals)
+
+- Scrape everything off of the AUDL site
+
+- Make sure neutral logic is 100
+
+------------------------------------------------------------------------
+
 2018 Stuff
   - build stadium field into 2018_audl_games data and add home_field field to 2018_audl_teams.
   - use these fields to determine whether a game is home, away or neutral.
@@ -8,7 +41,12 @@
   - Have audl_elo.py save a file with current elos.
   - Take in next set of games and give a prediction. (Can just do with current scraper, maybe with no added code)
 
+Vectorize ELO Calculations
 
+to_csv(index=False)
+
+- Get 2018 offline
+  - Use wayback?
 
 -------------------------------------------------------------------------
 

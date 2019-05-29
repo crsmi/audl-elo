@@ -9,16 +9,18 @@ PLAYOFF_HOME_TEAMS = {2012 : "DET",
                       2015 : None,
                       2016 : "MAD",
                       2017 : "MTL",
-                      2018 : "MAD"}
+                      2018 : "MAD",
+                      2019 : "SJ"} #TODO Check this
 
 # Lists of neutral games by game_id for each year
-NEUTRAL_GAME_LIST = {2012 : ["201208110SPN"],
+NEUTRAL_GAME_LIST = {2012 : ["201208110PHS"],
                      2013 : ["201308030TOR","201308040TOR"],
                      2014 : ["201407260MAD"],
-                     2015 : ["201508080MAD","2015080800SJ","2015080900SJ"],
+                     2015 : ["201507250PIT","201508080MAD","201508080SJX","201508090SJX"],#Midwest playoffs on same day, PIT played CHI outside madison to see who would face madison  #Playoffs/Championship was in SJ but not in their home stadium
                      2016 : ["201608060DAL","201608070DAL"],
                      2017 : ["201708260MAD","201708260DAL","201708270SFX","201708270TOR"],
-                     2018 : ["201808110DAL"]}
+                     2018 : ["201808110DAL"],
+                     2019 : []}
 
 def three_pad(s):
     """Pads a string, s, to length 3 with trailing X's"""
@@ -78,7 +80,7 @@ def fill(teams,games,starting_game_number,year):
         while game_id in game_ids:
             game_id_copy += 1
             if game_id_copy > 9:
-                raise Exception("game_id_copy can not be greater than 9.")
+                raise Exception("game_id_copy can not be greater than 9. Are you sure there were 10 or more games between the same teams on the same day?")
             game_id = dt[2] + dt[0] + dt[1] + str(game_id_copy) + three_pad(row["team_id"])
         game_ids.append(game_id)
 
@@ -107,6 +109,8 @@ def fill(teams,games,starting_game_number,year):
 
 def calc(teams,games,starting_elo,k):
     """ Calculate elo change based on the game result and add to games.
+
+        Acts on both teams and games and updates them without returning.
 
     Parameters
     ----------
@@ -146,7 +150,7 @@ def calc(teams,games,starting_elo,k):
         else:
             home_field_advantage = HFA
 
-        #get winning and losing team's starting elos including home court advantage
+        #Get winning and losing team's starting elos including home field advantage
         if row["game_result"] == "W":
             elow = row["elo_i"]+home_field_advantage
             elol = row["opp_elo_i"]
@@ -157,12 +161,10 @@ def calc(teams,games,starting_elo,k):
 
         #Calc Margin of Victory Mulitplier
         movm = math.log(abs(row['pts']-row['opp_pts'])+1)*(2.2/((elow-elol)*.001+2.2))
-        #movm = 1
 
         dr = row["elo_i"]+home_field_advantage - row["opp_elo_i"]
 
         elo_change = movm * k * (1 - (1/(10**(-(elow-elol)/400)+1)))
-
 
         #Adjust elo
         if row["game_result"] == "W":
@@ -176,7 +178,7 @@ def calc(teams,games,starting_elo,k):
         teams.loc[row["team_id"],"elo"] = row["elo_n"]
         teams.loc[row["opp_id"],"elo"] = row["opp_elo_n"]
 
-        row["forecast"] = 1/(1+(10**(-dr/400)))
+        row["forecast"] = 1/(1+(10**(-dr/400))) #Predicted probability that the home team wins.
 
         games.iloc[i] = row
 
@@ -219,10 +221,10 @@ def duplicate(teams,games):
 
     # Flip results and location
     w_flip = {"W":"L","L":"W","T":"T"}
-    home_flip = {"H":"A","A":"H","N":"N"}
+    location_flip = {"H":"A","A":"H","N":"N"}
 
     duplicate_games["game_result"] = games["game_result"].map(w_flip)
-    duplicate_games["game_location"] = games["game_location"].map(home_flip)
+    duplicate_games["game_location"] = games["game_location"].map(location_flip)
     duplicate_games["forecast"] = 1 - games["forecast"]
 
     # Merge the duplicates into the whole list
@@ -307,7 +309,7 @@ def generate(K=20,SE=1500,TE=1500):
     """
     game_number = 1
     games = pd.DataFrame(columns = ["gameorder","game_id","_iscopy","year_id","date","seasongame","is_playoffs","team_id","fran_id","pts","elo_i","elo_n","opp_id","opp_fran","opp_pts","opp_elo_i","opp_elo_n","game_location","game_result","forecast"])
-    years = [2012,2013,2014,2015,2016,2017,2018]
+    years = [2012,2013,2014,2015,2016,2017,2018,2019]
     starting_elo = SE
     for year in years:
         new_games, previous_teams = calc_season_elo(year,starting_elo,K,game_number)

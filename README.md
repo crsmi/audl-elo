@@ -13,7 +13,7 @@ The tools.predict_results function produces a prediction for any future gamse th
 
 ![2018 Semi-Final Predictions](semis_predictions.png)
 
-I utilized this tool during the regular season to test this models predictions against a game called [AUDL Pick'Em](https://audlpicks.com) run by the AUDL. The model's predictions took second in the 2018 competition and would have took first had I known about the game before the third week of competition was over.
+I utilized this tool during the regular season to test this model's predictions against a game called [AUDL Pick'Em](https://audlpicks.com) run by the AUDL. The model's predictions took second in the 2018 competition and would have took first had I known about the game before the third week of competition was over.
 
 ## Setup
 
@@ -28,7 +28,8 @@ I utilized this tool during the regular season to test this models predictions a
 
 ### Reproduce the data
   * Clone this repo to your computer.
-  * Change directory into each of the year folders, 2012 through 2018.
-    * Run `python scraper_(year).py` in each folder to produce the (year)_audl_games.csv file in the given folder.
+  * Scrape game data for each year, 2012 through 2018.
+    * Change directory into the folder for the given year.
+    * Run `python scraper_(year).py` in the folder to produce the (year)_audl_games.csv file in the given folder.
   * Navigate back to the main directory.
   * Run `python audl_elo.py` to create the data set in audl_elo.csv.

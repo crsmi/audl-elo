@@ -213,9 +213,14 @@ def plot_teams_many(target_teams,title = "Elo Ratings"):
             axs[i].legend(handles = teams_legend)
     plt.show()
 
+import math
+def roundup(x):
+    return int(math.ceil(x / 100.0)) * 100
+def rounddown(x):
+    return int(math.floor(x / 100.0)) * 100
 
 
-def one_plot(team_input, title = "Elo Ratings", label = "team_name", team_colors=False):
+def one_plot(team_input, title = "Elo Ratings", label = "team_name", team_colors=False, elo_dataframe=None):
     """ Plot historical elo ratings for every AUDL team with selected teams highlighted.
 
     Parameters
@@ -234,7 +239,10 @@ def one_plot(team_input, title = "Elo Ratings", label = "team_name", team_colors
     None
         Creates and plots the historical elo plot.
     """
-    g = pd.read_csv("audl_elo.csv")
+    if elo_dataframe is not None:
+        g = elo_dataframe
+    else:
+        g = pd.read_csv("audl_elo.csv")
     franchises = pd.read_csv("audl_franchises.csv").set_index("franchise",drop=False)
     target_teams = []
     for t in team_input:
@@ -312,7 +320,8 @@ def one_plot(team_input, title = "Elo Ratings", label = "team_name", team_colors
     ax.xaxis.set_ticks_position('none')
     #ax.set_xlabel(years)
     ax.tick_params('x',labelbottom=True)
-    ax.set_ylim(1150,1850)
+    #ax.set_ylim(1150,1850)
+    ax.set_ylim(g['elo_n'].min()-50,g['elo_n'].max()+50)
     ax.set_xlim(years[0],years[-1]+1)
 
     #Labeling x-axis in between ticks
@@ -322,7 +331,9 @@ def one_plot(team_input, title = "Elo Ratings", label = "team_name", team_colors
 
     ax.grid(True)
     ax.yaxis.tick_left()
-    ax.set_yticks(range(1200,1900,100))
+    #ax.set_yticks(range(1200,1900,100))
+    ax.set_yticks(range(roundup(ax.get_ylim()[0]),rounddown(ax.get_ylim()[1]),100))
+    print(ax.get_yticks())
     #ax.spines['right'].set_visible(False)
     #axs[i].yaxis.set_ticks_position('none')
     #axs[i].spines['left'].set_visible(False)
@@ -376,7 +387,7 @@ def predict_results():
     t["audl_diff"] = t["elo_diff"]*ELO_POINT_RATIO
 
 
-    # Get a prediction of the total nubmer of points score in each game
+    # Get a prediction of the total nubmer of points scored in each game
     # based on previous games this year (2018).
     g2018 =  g[(g["year_id"] == 2018) & (g['date'] < datetime.datetime.today()-datetime.timedelta(days=days_diff))]
     def estimate_points(l):
@@ -386,3 +397,30 @@ def predict_results():
     t['points_est'] = t.apply(estimate_points,axis=1)
 
     print(t.loc[:,["team_id","opp_id","date","points_est","forecast","audl_diff"]])
+
+def get_current_elos():
+    g = pd.read_csv("audl_elo.csv")
+    return (2 * g.groupby("fran_id")['elo_n'].last() + 1500) / 3
+
+def make_predictions():
+    ## NEED TO STORE CURRENT ELOS SOMEWHERE WHEN RUNNING audl_elo.py
+    ELO_POINT_RATIO = 1/32 # 1 point difference corresponds to 32 elo points
+    HFA = 64 #home field advantage is 64 elo points ~ 2 points
+
+    season = 2019
+    teams = pd.read_csv(f"./{season}/{season}_audl_teams.csv")
+    team_map = dict(zip(teams['abbr'],teams['franchise']))
+    elos = get_current_elos()
+    schedule = pd.read_csv(f"./{season}/{season}_audl_regular_season_schedule.csv")
+    schedule['elo'] = elos[schedule["team_id"].map(team_map)].tolist()
+    schedule['opp_elo']= elos[schedule["opp_id"].map(team_map)].tolist()
+    schedule['elo_diff'] = -(schedule['elo'] - schedule['opp_elo'] + HFA)
+    schedule['audl_diff'] = schedule['elo_diff']*ELO_POINT_RATIO
+    predicted_wins = schedule['audl_diff'] < 0
+    schedule['predicted_winner'] = schedule['team_id']
+    schedule.loc[~predicted_wins,'predicted_winner'] = schedule['opp_id']
+    schedule['winner_text'] = schedule['predicted_winner'] + ' by ' + schedule['audl_diff'].abs().round(2).astype(str)
+
+    future_games = schedule[pd.to_datetime(schedule['date']) > datetime.datetime.today()]
+    print(future_games[['date','opp_id','team_id','opp_elo','elo','winner_text']])
+    #return schedule,predicted_wins
