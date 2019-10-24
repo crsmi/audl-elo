@@ -20,7 +20,7 @@ NEUTRAL_GAME_LIST = {2012 : ["201208110PHS"],
                      2016 : ["201608060DAL","201608070DAL"],
                      2017 : ["201708260MAD","201708260DAL","201708270SFX","201708270TOR"],
                      2018 : ["201808110DAL"],
-                     2019 : []}
+                     2019 : ["201907200TOR","201908100NYX","201908100SDX","201908110NYX"]}
 
 def three_pad(s):
     """Pads a string, s, to length 3 with trailing X's"""

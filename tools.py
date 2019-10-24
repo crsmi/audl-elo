@@ -421,6 +421,6 @@ def make_predictions():
     schedule.loc[~predicted_wins,'predicted_winner'] = schedule['opp_id']
     schedule['winner_text'] = schedule['predicted_winner'] + ' by ' + schedule['audl_diff'].abs().round(2).astype(str)
 
-    future_games = schedule[pd.to_datetime(schedule['date']) > datetime.datetime.today()]
+    future_games = schedule[pd.to_datetime(schedule['date']) > datetime.datetime.today() - datetime.timedelta(days=0)]
     print(future_games[['date','opp_id','team_id','opp_elo','elo','winner_text']])
     #return schedule,predicted_wins
